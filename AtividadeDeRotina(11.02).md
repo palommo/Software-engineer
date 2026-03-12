@@ -14,4 +14,6 @@
 - Dificil sustentabilidade
 
 ---
-## Requisitos 
+## Requisitos que incluiriamos
+- Registrar vaga do cliente e dados dele para contato
+- Controle de vagas livres para o recepcionista não precisar ficar falando com o manobrista sobre
