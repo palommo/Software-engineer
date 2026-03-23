@@ -1,4 +1,4 @@
-## 1. Termo de Abertura
+1## 1. Termo de Abertura
 
 O presente projeto tem como objetivo o desenvolvimento de uma plataforma de gestão financeira pessoal integrada ao ecossistema Open Finance, visando automatizar o controle de receitas e despesas e fornecer ao usuário uma visão centralizada e inteligente de suas finanças. O sistema busca resolver a dificuldade enfrentada por usuários que utilizam múltiplas instituições financeiras e dependem de controles manuais, oferecendo integração automática de dados, categorização inteligente e visualização por meio de dashboards personalizados.  
 
@@ -59,8 +59,10 @@ A arquitetura do sistema será projetada para ser escalável e segura, garantind
   Origem: Sistema  
 
 - **RNF04 – O sistema deve estar em conformidade com a Lei Geral de Proteção de Dados (LGPD).**  
-  Origem: Negócio  
-
+  Origem: Negócio
+    
+- **RNF05 – O sistema deve garantir a criptografia de ponta a ponta dos dados e utilizar protocolos seguros de comunicação (OAuth2 e mTLS), assegurando a proteção das informações durante todo o processo de transmissão e armazenamento.**
+  Origem: Sistema
 ---
 
 ### Requisitos de Domínio (RD)
