@@ -1,4 +1,4 @@
-1## 1. Termo de Abertura
+## 1. Termo de Abertura
 
 O presente projeto tem como objetivo o desenvolvimento de uma plataforma de gestão financeira pessoal integrada ao ecossistema Open Finance, visando automatizar o controle de receitas e despesas e fornecer ao usuário uma visão centralizada e inteligente de suas finanças. O sistema busca resolver a dificuldade enfrentada por usuários que utilizam múltiplas instituições financeiras e dependem de controles manuais, oferecendo integração automática de dados, categorização inteligente e visualização por meio de dashboards personalizados.  
 
